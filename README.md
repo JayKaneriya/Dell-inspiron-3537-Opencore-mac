@@ -2,8 +2,8 @@
 Dell inspiron 3537 Opencore mac catalina EFI Folder
 
 # Not Wokring
-Trackpad buttons
-Hdmi
+Trackpad buttons,
+Hdmi,
 AMD Radeon Graphic
 
 # Otherwise every thing working 
