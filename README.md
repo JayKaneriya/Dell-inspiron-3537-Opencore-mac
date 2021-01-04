@@ -1,2 +1,4 @@
 # Dell-inspiron-3537-Opencore-mac
-dell inspiron 3537 Opencore mac catalina EFI oc
+Dell inspiron 3537 Opencore mac catalina EFI Folder
+
+# trackpad button And Hdmi not working other wise everything working 
