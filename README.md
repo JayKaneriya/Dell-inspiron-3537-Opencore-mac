@@ -3,8 +3,10 @@ Dell inspiron 3537 Opencore mac catalina EFI Folder
 
 # Not Wokring
 Trackpad buttons,
-Hdmi,
-AMD Radeon Graphic
+AMD Radeon Graphic,
+Bluetooth,
+Some time stuck at shutdown,
+HDMI Audio not working
 
 Anyone have solution for hdmi please let me know.
 AMD Radeon HD 8670M graphic
